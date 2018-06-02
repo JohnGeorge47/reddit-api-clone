@@ -1,0 +1,16 @@
+{
+  "name": "reddit-api-clone",
+  "version": "1.0.0",
+  "description": "A clone of reddit using express and node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/preset-env": "^7.0.0-beta.49",
+    "babel-cli": "^6.26.0",
+    "nodemon": "^1.17.5"
+  }
+}
