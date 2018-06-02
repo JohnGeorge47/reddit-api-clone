@@ -1,6 +1,6 @@
-let a="addsa";
-let b="ddas";
-let f=(a,b)=>{
-   return a+b;
-}
-console.log(f(a,b))
+import express from "express";
+const app = express();
+
+app.listen(3000, () => {
+  console.log("lets get started");
+});
