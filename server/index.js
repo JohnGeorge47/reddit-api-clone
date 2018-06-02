@@ -1,6 +1,5 @@
-import express from "express";
-const app = express();
+import app from "./app";
 
-app.listen(3000, () => {
+app.listen(3006, () => {
   console.log("lets get started");
 });
