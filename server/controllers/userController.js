@@ -7,6 +7,7 @@ userController.post = (req, res) => {
     username,
     password
   });
+
   user
     .save()
     .then(newuser => {

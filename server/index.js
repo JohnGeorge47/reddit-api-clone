@@ -1,5 +1,5 @@
 import app from "./app";
 
-app.listen(3006, () => {
+app.listen(3004, () => {
   console.log("lets get started");
 });
